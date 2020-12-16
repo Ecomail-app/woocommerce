@@ -1,5 +1,5 @@
 # Ecomail woocommerce plugin
 
-Plugin můžete stáhnout zde: 
+You can download your plugin here: 
 
-https://github.com/Ecomailcz/woocommerce/blob/master/ecomail_woo_plugin.zip
+https://github.com/Ecomail-app/woocommerce/blob/master/ecomail_woo_plugin.zip
